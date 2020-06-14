@@ -3,6 +3,9 @@
 Contributors
 Andrew Zhou, Sam Sarmad, Nalani Chun
 
+# Summary
+Due to the amount of time available, we decided to analyze the top 3 states with most cases in which also provides more samples: California, New York, and Pennsylvania. Our final process, as described below, was applied to all states. The data files and outputs for all states are available on our Github repository for review. We only include the process and outputs for California in this summary.
+
 # Goal
 Find different government policies that were impactful to the spread of new covid-19 cases.
 
